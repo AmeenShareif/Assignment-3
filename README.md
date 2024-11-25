@@ -25,6 +25,7 @@ This assignment involves designing and implementing a simple 4-bit CPU using a d
   ![image](https://github.com/user-attachments/assets/3d5ce2ba-a195-414b-b32d-5158bfcfe615)
 
   # ProgramCounter:
+![image](https://github.com/user-attachments/assets/5da19cee-0d18-46f2-b905-338a2c30ef8b)
 
 
 
